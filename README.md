@@ -8,7 +8,7 @@ Live linkes
 https://webstackwordpress.fbinstaytb.xyz/
 
 nextjs version is on
-https://webstackwordpress.fbinstaytb.xyz/
+https://webstacknextjs.fbinstaytb.xyz/
 
 
 have at least Node.js v20.19.6. installed
