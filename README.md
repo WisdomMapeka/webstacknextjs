@@ -1,6 +1,16 @@
 # webstacknextjs
 # Instructions
 
+Live linkes
+
+#Wordpress version is in
+
+https://webstackwordpress.fbinstaytb.xyz/
+
+nextjs version is on
+https://webstackwordpress.fbinstaytb.xyz/
+
+
 have at least Node.js v20.19.6. installed
 
 cd into folder wp-next-frontend
