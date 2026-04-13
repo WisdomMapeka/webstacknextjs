@@ -48,9 +48,9 @@ export default function Navbar() {
         <div className="md:hidden px-6 pb-4 space-y-4">
 
           <nav className="flex flex-col gap-4 text-sm text-gray-700">
-            <a className="hover:text-black">Home</a>
-            <a className="hover:text-black">About</a>
-            <a className="hover:text-black">Contact</a>
+            <a className="hover:text-black" href="/">Home</a>
+            <a className="hover:text-black" href="/about">About</a>
+            <a className="hover:text-black" href="/contact">Contact</a>
           </nav>
 
           {/* CTA inside dropdown */}
