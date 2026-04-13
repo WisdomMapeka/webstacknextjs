@@ -1,3 +1,4 @@
+export const revalidate = 60;
 import { client } from '@/lib/graphql';
 import { GET_POST_BY_SLUG } from '@/lib/queries';
 import Navbar from '@/components/Navbar';

@@ -1,3 +1,4 @@
+export const revalidate = 60;
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import BlogGrid from '@/components/BlogGrid';
