@@ -54,9 +54,12 @@ export default function Navbar() {
           </nav>
 
           {/* CTA inside dropdown */}
-          <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-md shadow-sm">
-            Get Started
-          </button>
+          <Link href={"/getstarted"}>
+              <button className="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-md shadow-sm">
+                Get Started
+              </button>
+          </Link>
+          
 
         </div>
       )}
