@@ -1,2 +1,16 @@
 # webstacknextjs
-I will explain later
+# Instructions
+
+cd into folder wp-next-frontend
+
+then run
+
+```bash
+npm install
+```
+
+once installations are done then run
+
+```bash
+npm run dev
+```
