@@ -1,3 +1,4 @@
+import { ReactNode } from 'react';
 import { Inter } from 'next/font/google';
 import './globals.css';
 
@@ -6,7 +7,11 @@ const inter = Inter({
   variable: '--font-inter',
 });
 
-export default function RootLayout({ children }) {
+type RootLayoutProps = {
+  children: ReactNode;
+};
+
+export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
       <body className={inter.className}>
