@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* COLORS */
+:root {
+  --primary: #2563eb;
+  --text-main: #111827;
+  --text-secondary: #6b7280;
+  --border: #e5e7eb;
+}
+
+/* BASE */
+body {
+  background: #f9fafb;
+  color: var(--text-main);
+}
+
+/* TYPOGRAPHY */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.card-shadow {
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.card-shadow-hover:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
