@@ -1,5 +1,7 @@
 # webstacknextjs
 # Instructions
+video link
+https://youtu.be/8JN0UbaheRU
 
 Live linkes
 
@@ -12,6 +14,7 @@ https://webstacknextjs.fbinstaytb.xyz/
 
 
 have at least Node.js v20.19.6. installed
+
 
 cd into folder wp-next-frontend
 
